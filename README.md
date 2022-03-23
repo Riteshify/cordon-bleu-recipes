@@ -8,10 +8,12 @@
 
 > Here is an example of an unordered list where I have listed differents links of the pages to the main index.html page.
 
-        <ul>
-            <li><a href="./recipes/mauritian_chicken_biryani.html">Mauritian Chicken Biryani</a></li>
-            <li><a href="./recipes/shrimp_fritters.html">Shrimp Fritters</a></li>
-            <li><a href="./recipes/chayotte_dumplings.html">Chayotte Dumplings</a></li>
-       </ul>
+         <ul>
+            <li><h3><a href="./recipes/mauritian_chicken_biryani.html">Mauritian Chicken Biryani</a></h3></li>
+            <br>
+            <li><h3><a href="./recipes/shrimp_fritters.html">Shrimp Fritters</a></h3></li>
+            <br>
+            <li><h3><a href="./recipes/chayotte_dumplings.html">Chayotte Dumplings</a></h3></li>
+        </ul>
 
 
