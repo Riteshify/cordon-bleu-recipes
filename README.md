@@ -16,4 +16,8 @@
             <li><h3><a href="./recipes/chayotte_dumplings.html">Chayotte Dumplings</a></h3></li>
         </ul>
 
-
+## Desired Outcome
+![desired outcome](./images/desired-outcome1.jpg)
+![desired outcome](./images/desired-outcome2.jpg)
+![desired outcome](./images/desired-outcome3.jpg)
+![desired outcome](./images/desired-outcome4.jpg)
